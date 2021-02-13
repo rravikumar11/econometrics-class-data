@@ -1,5 +1,5 @@
 # econometrics-class-data
-Collection of data sets used in econometrics course
+Select data sets used in my econometrics course.
 
 **anscombe.csv**: The famous Anscombe's quartet, used to illustrate the potential pitfalls of data analysis without visualization.
 
